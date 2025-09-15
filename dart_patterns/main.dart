@@ -1,3 +1,12 @@
+// ****************************************************
+// Name: Abdul Rafay
+// SAP ID: 54689
+// Course: Mobile App Development
+// Assignment # 1
+// Qno. 2 - Dart Pattern
+// Date: 15th September 2025
+// ****************************************************
+
 import 'dart:io';
 
 void main() {
