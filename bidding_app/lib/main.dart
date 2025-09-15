@@ -3,6 +3,8 @@
 // SAP ID: 54689
 // Course: Mobile App Development
 // Assignment # 1
+// Qno. 1 - Bidding App
+// Date: 15th September 2025
 // ****************************************************
 
 import 'package:flutter/material.dart';
